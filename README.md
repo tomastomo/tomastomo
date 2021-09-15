@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomastomo
 - 👀 I’m interested in mobile and frontend developing
-- 🌱 I’m currently learning Flutter and Swift.
+- 🌱 I’m currently learning Swift and Angular.
 - 📫 Anyone can reach me in tomastormol@gmail.com
 
 <!---
